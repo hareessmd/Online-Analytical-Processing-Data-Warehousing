@@ -1,0 +1,5 @@
+jdbc:oracle:thin:@(description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=gd8a1dfd7cb817e_pqg5wnwic7v65npw_high.adb.oraclecloud.com))(security=(my_wallet_directory=C:/Talend/studio/wallet/)))
+
+C:/Talend/studio/wallet
+
+(description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=gd8a1dfd7cb817e_pqg5wnwic7v65npw_high.adb.oraclecloud.com))
