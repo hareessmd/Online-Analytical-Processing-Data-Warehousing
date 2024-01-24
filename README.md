@@ -1,0 +1,1 @@
+This repository contains data warehousing project documents starting from business proposal, project requirements, implementation and insights integrated with Tableau (data set provideed in the tableau integration branch)
